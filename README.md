@@ -11,4 +11,4 @@ Project stages scheduled over three months, from planning to final report.
 
 ## Board
 <img width="1920" height="824" alt="image" src="https://github.com/user-attachments/assets/2ff286dc-0dc5-401e-8ab0-89c357d1d19a" />
-*Work broken down into tasks and tracked across To Do, In Progress and Done.
+Work broken down into tasks and tracked across To Do, In Progress and Done.
